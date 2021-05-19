@@ -1,2 +1,2 @@
 # Luyentap
-Click vào file page để xem code 
+Click vào file page.html hay index.html để xem code 
